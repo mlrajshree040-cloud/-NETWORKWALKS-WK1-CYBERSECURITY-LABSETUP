@@ -169,11 +169,11 @@ No Android installation or ping-test result is claimed in this README until it h
 
 I will add my own screenshots as I complete each step:
 
-- [ ] VirtualBox `NatNetwork` configuration
-- [ ] Kali Linux running in VirtualBox
-- [ ] Kali IP configuration and `ip addr` output
-- [ ] Successful gateway and internet-IP tests
-- [ ] Ping tests between the configured machines
+ ![VirtualBox `NatNetwork` configuration](Screenshot 2026-10-28 190721.png)
+ ![Kali Linux running in VirtualBox](Screenshot 2026-10-28 190833.png)
+ ![Kali IP configuration and `ip addr` output]
+ ![Successful gateway tests]
+ ![Ping tests between the configured machines]
 
 
 ## 🛠️ Issues and Troubleshooting Notes
