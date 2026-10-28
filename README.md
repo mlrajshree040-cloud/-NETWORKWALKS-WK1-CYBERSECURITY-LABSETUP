@@ -173,7 +173,7 @@ I will add my own screenshots as I complete each step:
  ![Kali Linux running in VirtualBox](Screenshot 2026-10-28 190833.png)
  ![Kali IP configuration and `ip addr` output](Kali IP configuration and ip addr output.png)
  ![Successful gateway tests] (Successful gateway  tests.png)
- ![Network Connectivity Test] ()
+ ![Network Connectivity Test] (Network Connectivity Test.png)
 
 
 ## 🛠️ Issues and Troubleshooting Notes
