@@ -165,16 +165,23 @@ Planned tasks:
 
 No Android installation or ping-test result is claimed in this README until it has actually been completed.
 
-## 📸 Screenshots to Add
 
-I will add my own screenshots as I complete each step:
+## 📸 Screenshots
 
- ![VirtualBox `NatNetwork` configuration](Screenshot 2026-10-28 190721.png)
- ![Kali Linux running in VirtualBox](Screenshot 2026-10-28 190833.png)
- ![Kali IP configuration and `ip addr` output](Kali IP configuration and ip addr output.png)
- ![Successful gateway tests] (Successful gateway  tests.png)
- ![Network Connectivity Test] (Network Connectivity Test.png)
+### 1. VirtualBox NatNetwork Configuration
+![VirtualBox NatNetwork configuration](Screenshot%202026-10-28%20190721.png)
 
+### 2. Kali Linux Running in VirtualBox
+![Kali Linux running in VirtualBox](Screenshot%202026-10-28%20190833.png)
+
+### 3. Kali IP Configuration and ip addr
+![Kali IP configuration](Kali%20IP%20configuration%20and%20ip%20addr%20output.png)
+
+### 4. Successful Gateway Tests
+![Successful gateway tests](Successful%20gateway%20tests.png)
+
+### 5. Network Connectivity Test
+![Network Connectivity Test](Network%20Connectivity%20Test.png)
 
 ## 🛠️ Issues and Troubleshooting Notes
 
