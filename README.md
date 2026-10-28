@@ -171,9 +171,9 @@ I will add my own screenshots as I complete each step:
 
  ![VirtualBox `NatNetwork` configuration](Screenshot 2026-10-28 190721.png)
  ![Kali Linux running in VirtualBox](Screenshot 2026-10-28 190833.png)
- ![Kali IP configuration and `ip addr` output]
- ![Successful gateway tests]
- ![Ping tests between the configured machines]
+ ![Kali IP configuration and `ip addr` output](Kali IP configuration and ip addr output.png)
+ ![Successful gateway tests] (Successful gateway  tests.png)
+ ![Network Connectivity Test] ()
 
 
 ## 🛠️ Issues and Troubleshooting Notes
